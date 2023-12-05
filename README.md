@@ -1,1 +1,1 @@
-# dbt_zoomcamp
+# dbt-ny-taxi-rides-zoomcamp
