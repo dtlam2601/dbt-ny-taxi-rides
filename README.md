@@ -1,1 +1,1 @@
-# dbt-zoomcamp
+# dbt_zoomcamp
