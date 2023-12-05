@@ -1,1 +1,2 @@
-# dbt-ny-taxi-rides-zoomcamp
+# dbt-ny-taxi-rides-postgres
+
